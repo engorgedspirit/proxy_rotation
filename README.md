@@ -1,3 +1,4 @@
 # proxy_rotation
-A bot which scrapes web for proxies, checks if they are working and stores them in a file
-Uses BeautifulSoup library for scraping
+A bot which scrapes web for proxies, checks if they are working and stores them in a file  
+Uses BeautifulSoup library for scraping  
+And Selenium to navigate through links
